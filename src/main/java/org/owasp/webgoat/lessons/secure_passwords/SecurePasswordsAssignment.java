@@ -82,7 +82,7 @@ public class SecurePasswordsAssignment extends AssignmentEndpoint {
         int hr = (60 * min);
         int d = (24 * hr);
         int yr = (365 * d);
-        String token = "lmzlvmi5i5sjvn3exfxjicb6tvrpf2qupjm3opv2uveaqtgwgqta";
+        String token = "upwecaefzz4dsvxmdmr7f7mlkvmkn5vx5kz57gt4sklweutytzfq";
 
         long years = seconds / (d) / 365;
         long days = (seconds % yr) / (d);
